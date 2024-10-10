@@ -1,7 +1,7 @@
 				@font-face {
 					font-family: 'downlink';
-					src: url('/wordpress/wp-content/uploads/useanyfont/1733Downlink.woff2') format('woff2'),
-						url('/wordpress/wp-content/uploads/useanyfont/1733Downlink.woff') format('woff');
+					src: url('/digicert/wp-content/uploads/useanyfont/1733Downlink.woff2') format('woff2'),
+						url('/digicert/wp-content/uploads/useanyfont/1733Downlink.woff') format('woff');
 						  font-display: auto;
 				}
 
